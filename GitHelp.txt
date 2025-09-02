@@ -1,0 +1,17 @@
+++++++++++ Команда на один раз для устройства ПК или ноут +++++++++
+git config --global user.name "arzy-54-2"
+git config --global user.email "3a0d5@example.com"
+
+
++++++++++ Команда на один раз для проекта +++++++++
+git init       | инициализация репозитория
+git remote add origin https://github.com/arzy-54-2/OOP-58-2.git
+
+
+
++++++++++ Команда которые часто используются  +++++++++
+
+git status      | статус проекта
+git add .       | добавить все изменения в буфер обмена
+git commit -m "message" | сохранить изменения которые в буфере обмена
+git push origin master|main        | отправить сохраненные изменения в репозитории
