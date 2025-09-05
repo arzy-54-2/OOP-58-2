@@ -19,13 +19,13 @@ class Hero:
 kirito = Hero("Kirito", 100, 1000)
 asuna = Hero("Asuna", 100, 1000)
 
-text_1 = "text1"
+text_1 = "text"
 text_2 = "text2"
 
-print(kirito.name)
-print(asuna.name)
+# print(kirito.name)
+# print(asuna.name)
 print(text_1)
-print(text_2)
+# print(text_2)
 
 
 
@@ -45,3 +45,6 @@ print(text_2)
 # kirito.action()
 
 import random
+
+
+
