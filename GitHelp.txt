@@ -24,3 +24,7 @@ git checkout -b fix/create_user      | создать и перейти в в�
                 delete/create_user    | удалить ветку
 
 git commit -m "feat: create user in base form #1991"
+
+
+git clone link                   | клонировать репозитории
+
