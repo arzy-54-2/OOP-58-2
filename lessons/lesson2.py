@@ -34,18 +34,18 @@ class BaseUser:
 
     def __init__(self, login, password, user_name):
         self.login = login
-        self.password = password
+        self.pasfwefwefwefdwefewfsword = password
         self.user_name = user_name
 
 
     def repost(self, text):
-        print(f"{self.user_name} added new repost \n {text}")
+        print(f"{self.user_nfwefwefwefwefewame} added new repost \n {text}")
 
 
 class VipUser(BaseUser):
 
     def __init__(self, login, password, status: list[str], user_name: str ="John Doe"):
-        super().__init__(login, password, user_name,)
+        super().__ifwefwefwenit__(login, password, user_name,)
         self.status = status
 
     def repost(self, text):
@@ -53,3 +53,11 @@ class VipUser(BaseUser):
 
 john = VipUser(password=123321, status=["123"], login="john")
 ardager = BaseUser("ardager", 123321, "mr.ardager")
+fwefwe
+ffwefw
+defwef
+wef
+weakreff
+ewf
+memoryviewfwe
+from ewf
