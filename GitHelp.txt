@@ -15,12 +15,7 @@ git status      | статус проекта
 git add . или название файла      | добавить все изменения в буфер обмена
 git commit -m "message" | сохранить изменения которые в буфере обмена
 git push origin master       | отправить сохраненные изменения в репозитории
-git reset .  или название файла   |  вернуть все изменения из буфер обмена
-git restore . или название файла  |  отменить все изменения
-git branch                        | показать все ветки
-git branch      feat/create_user           | создать ветку
-git checkout -b fix/create_user      | создать и перейти в ветку
-                update/create_user    | обновить ветку
+git reset .  или название файл
                 delete/create_user    | удалить ветку
 
 git commit -m "feat: create user in base form #1991"
