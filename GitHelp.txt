@@ -28,3 +28,4 @@ git commit -m "feat: create user in base form #1991"
 
 git clone link                   | клонировать репозитории
 
+git merge  branch name          | сливать ветки
